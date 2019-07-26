@@ -108,7 +108,7 @@ a:active {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "metropolis-semibold", sans-serif;
-  color: #000000;
+  color: #EEE;
   font-style: normal;
   font-weight: normal;
   text-rendering: optimizeLegibility;
@@ -140,14 +140,14 @@ h5, .h5, h6, .h6 {
 }
 
 h1, .h1 {
-  font-size: 3.6rem;
+  font-size: 4.6rem;
   line-height: 1.25;
   letter-spacing: -0.1rem;
 }
 
 @media only screen and (max-width:600px) {
   h1, .h1 {
-    font-size: 3.3rem;
+    font-size: 4.3rem;
     letter-spacing: -0.07rem;
   }
 
